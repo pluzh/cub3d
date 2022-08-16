@@ -1,0 +1,14 @@
+SO   ./texture/tile_1.xpm
+EA  ./texture/tile_2.xpm
+NO ./texture/tile_3.xpm
+F 255, 255, 251
+WE ./texture/tile_4.xpm
+C 48, 171, 240
+
+
+11111111
+10011111
+1100011111
+100111N001
+100011011111
+111111111
